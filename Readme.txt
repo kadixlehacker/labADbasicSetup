@@ -1,5 +1,6 @@
 
-## voici les étapapes pour ce lab ##
+   voici les étapapes pour ce lab
+####################################
 
 1. Choisissez entre VirtualBox ou VMware selon votre préférence, puis installez-le.
 2. Installez un Windows Server (nous avons utilisé Windows Server 2019 pour cet exemple) dans la machine virtuelle. 
