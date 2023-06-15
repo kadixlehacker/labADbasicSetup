@@ -1,5 +1,5 @@
 
-   voici les étapapes pour ce lab
+   voici les étapes pour ce lab
 ####################################
 
 1. Choisissez entre VirtualBox ou VMware selon votre préférence, puis installez-le.
